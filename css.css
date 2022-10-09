@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body {
+    background-color: #f1f1f1;
+}
+.table {
+    
+    table-layout: fixed;
+    height: 120px;
+    vertical-align: top;
+}
+#textName {
+    vertical-align: top;
+    font-family: 'Roboto', sans-serif;
+    width: 9cm;
+    background-color: rgb(232, 243, 217);
+    font-size: 30px;
+    font-weight:bold;
+
+}
+#textText {
+    width: 20cm;
+    background-color: rgb(230, 246, 208);
+    font-family:   sans-serif;
+    font-size:24px ;
+    font-style: italic;
+    vertical-align: top;
+}
+
+#rightArrow {   
+    max-height: 40px;
+}
+#leftArrow {
+    max-height: 40px;
+    padding-right: 24cm;
+    padding-left: 1cm;
+}
